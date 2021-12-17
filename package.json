@@ -1,0 +1,25 @@
+{
+  "name": "vue-list",
+  "version": "1.0.0",
+  "description": "A Vue List Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cc2victoria/vue-list.git"
+  },
+  "keywords": [
+    "vue",
+    "list",
+    "component",
+    "infinite"
+  ],
+  "author": "cc2victoria@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cc2victoria/vue-list/issues"
+  },
+  "homepage": "https://github.com/cc2victoria/vue-list#readme"
+}
